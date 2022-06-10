@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Home
+title: 'Calvin Ayre Loses “Millions” in Nigerian Scam, Says Conman Had “Documents w/ Coffee Stains and Rusty Staples.”'
 ---
 
-Typography and links
-Bootstrap sets basic global display, typography, and link styles. Specifically, we:
+Antigua — Calvin Ayre’s post-conference Soonium high didn’t last long. TST can exclusively report that Mr. Ayre filed a report with Antiguan authorities this morning after he was allegedly scammed out of millions of dollars in what is being described as a “Nigerian Price scheme.”
 
-Remove margin on the body
-Set background-color: white; on the body
-Use the @baseFontFamily, @baseFontSize, and @baseLineHeight attributes as our typographic base
-Set the global link color via @linkColor and apply link underlines only on :hover
-These styles can be found within scaffolding.less.
+TST spoke with Mr. Ayre this afternoon.
 
-Reset via Normalize
-With Bootstrap 2, the old reset block has been dropped in favor of Normalize.css, a project by Nicolas Gallagher and Jonathan Neal that also powers the HTML5 Boilerplate. While we use much of Normalize within our reset.less, we have removed some elements specifically for Bootstrap.
+“I had the smartest people on my team checking this out,” said Mr. Ayre. “The man had boxes and boxes of documents proving he was the long lost Prince Ibrahim Abubakar Gbadamosi IV.”
+
+When pressed by our team, who were quite skeptical, Mr. Ayre told us “you don’t understand. This man had documents that had coffee stains on them. Some of them even appeared quite old and the staples holding them together were rusted. You just can’t forge stuff like that.”
+
+We asked if Mr. Ayre would be able to recover the funds he paid the conman because Bitcoin SV can be recovered with a court order, but Mr. Ayre informed us he has never actually made a Bitcoin SV transaction.
+
+More on this story, soon.
