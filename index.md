@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 'Calvin Ayre Loses “Millions” in Nigerian Scam, Says Conman Had “Documents w/ Coffee Stains and Rusty Staples.”'
+img: https://i0.wp.com/thesoontimes.com/wp-content/uploads/2022/06/18320829_1566885776664163_5348460635651166745_o-1.jpg?w=640&ssl=1
 ---
 
 Antigua — Calvin Ayre’s post-conference Soonium high didn’t last long. TST can exclusively report that Mr. Ayre filed a report with Antiguan authorities this morning after he was allegedly scammed out of millions of dollars in what is being described as a “Nigerian Price scheme.”
