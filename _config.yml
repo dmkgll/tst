@@ -2,3 +2,4 @@ collections:
   product:
     output: false
     permalink: /:collection/:name
+pagination: 1
