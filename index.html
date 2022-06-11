@@ -14,14 +14,14 @@ layout: default
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
     </div>
-      <img class="featured"src="{{page.img}}" alt="{{page.alt}}">
-        <p class="caption">{{page.caption}}</p>
+      <img class="featured"src="{{post.img}}" alt="{{post.alt}}">
+        <p class="caption">{{post.caption}}</p>
     
     {{ post.content }}
     
      <br><br>
         <h4>Author</h4>
-        <p>{{page.authorbio}}
+        <p>{{post.authorbio}}
   </div>
   {% endfor %}
 </div>
