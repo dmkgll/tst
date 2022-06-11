@@ -1,0 +1,28 @@
+---
+layout: store
+title: store
+---
+
+   <br><br>
+   <!-- Main hero unit for a primary marketing message or call to action -->
+      <div class="hero-unit">
+        <h1>Hello, world!</h1>
+        <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <p><a href="#" class="btn btn-primary btn-large">Learn more</a></p>
+      </div>
+
+      <!-- Example row of columns -->
+
+
+ <div class="row">
+{% assign product = site.product | sort: 'date' | reverse %}
+{% for product in product %}
+
+<div class="span4">
+    <img src="{{product.image}}" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="" data-noaft="1" style="width: 342px;height: 348px;margin: margin-bottom;margin-bottom: 10px;">
+      <h2>{{product.title}}</h2>
+<p>{{ product.teaser | truncate: 445 }</p>
+          <p><a class="btn" href="#">View details</a></p>
+        </div>
+{% endfor %}  
+</div> -->
