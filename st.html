@@ -14,3 +14,17 @@ title: store
       <!-- Example row of columns -->
 
 
+<div class="row">
+   
+{% assign product = site.product | sort: 'date' | reverse %}
+{% for product in product %}  
+   
+        <div class="span4">
+          <h2>{{product.title}}</h2>
+          <img src="{{product.image}}" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Amazon.com: Cryptocurrency T-shirt. Ethereum, Bitcoin, Litecoin, T-shirt :  Clothing, Shoes &amp; Jewelry" data-noaft="1" style="width: 342px;height: 348px;margin: margin-bottom;margin-bottom: 10px;">
+           <p> {{ product.date | date: date_to_rfc822 }} {{ product.content | truncate: 445 }} </p>
+          <p><a class="btn" href="#">View details</a></p>
+        </div>
+       
+      </div>
+{% endfor %}  
