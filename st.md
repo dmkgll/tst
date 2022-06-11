@@ -8,8 +8,8 @@
  
  
 <div class="tweet" style="margin-bottom:1em;">
-  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ product.date | date: date_to_rfc822 }} {{ product.content | truncate: 445 }}</div>
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{{ product.date | date: date_to_rfc822 }} {{ product.content | truncate: 445 }}</div>
  
 
 {% endfor %}  
