@@ -2,6 +2,7 @@
 layout: default
 title: Ayre Foundation Provides Housing, School for Ukrainian Refugee HS Dance Team
 image: https://i0.wp.com/thesoontimes.com/wp-content/uploads/2022/06/18320829_1566885776664163_5348460635651166745_o-1.jpg?w=640&ssl=1
+authorbio: This story was was covered by John C. Buttheiner, a local reporter for TST who previously worked as a janitor for an elemtentary school.
 ---
 
 ANTIGUA — The Ayre Foundation launched a program today to provide food, shelter, and education for 120 young ladies of the elite Ukrainian all-girls high school varsity dance program “Seksualʹni Molodi Zhinky Dance Ensemble” at Mr. Ayre’s private estate in Antigua.
