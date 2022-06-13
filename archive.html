@@ -1,0 +1,15 @@
+---
+layout: default
+title: Archive
+---
+
+  {% for post in site.posts %}
+
+<div class="page-header">
+           <a href="{{ post.url }}">      <h1>{{post.title}}</h1>  </a>
+  
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+          </div>
+  
+
+{% endfor %}
