@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'Calvin Ayre Loses “Millions” in Nigerian Scam, Says Conman Had “Documents w/ Coffee Stains and Rusty Staples.”'
 img: https://i0.wp.com/thesoontimes.com/wp-content/uploads/2022/06/18320829_1566885776664163_5348460635651166745_o-1.jpg?w=640&ssl=1
 caption: "Wearing his designer glasses, Mr. Ayre spoke to press about the scam."
